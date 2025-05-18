@@ -1,0 +1,11 @@
+:root, html, body {
+  background: #fff !important;
+  background-color: #fff !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root, html, body {
+    background: #fff !important;
+    background-color: #fff !important;
+  }
+} 
